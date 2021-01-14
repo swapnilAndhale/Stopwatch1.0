@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Stopwatch1.0
 //
-//  Created by MacOS on 19/04/2020.
-//  Copyright © 2020 Maccom. All rights reserved.
+//  Created by Swapnil on 19/04/2020.
+//  Copyright © 2020 Swapnil. All rights reserved.
 //
 
 import UIKit
